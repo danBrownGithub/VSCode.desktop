@@ -1,0 +1,11 @@
+[Desktop Entry]
+
+Name=Code
+StartupWMClass=Code
+Comment=VSCode
+Exec=code
+Icon=/usr/local/VSC/VSCode-linux-x64/resources/app/resources/linux/code.png
+Categories=IDE;Development
+Terminal=false
+Type=Application
+
